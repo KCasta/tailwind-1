@@ -1,0 +1,8 @@
+.bg-image-cover {
+  background-image: url("./image/914a6cb7cc1cc9e16510179bf2fc66aa.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+}
